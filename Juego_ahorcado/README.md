@@ -15,9 +15,9 @@ Para ejecutar:
 
 En este script es un juego de hangman o el ahorcado que tiene un menu donde te permite tomar diferentes las siguientes opciones:
 
-[1. Iniciar Nueva Partida](#iniciar-nueva-partida)
-[2. Crear ahorcado](#crear-ahorcado)
-3. Salir
+- [1. Iniciar Nueva Partida](#iniciar-nueva-partida)
+- [2. Crear ahorcado](#crear-ahorcado)
+- 3. Salir
 
 
 ### Iniciar Nueva Partida
