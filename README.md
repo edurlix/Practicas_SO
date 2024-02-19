@@ -22,14 +22,14 @@ En este script es un juego de hangman o el ahorcado que tiene un menu donde te p
 
 ### Iniciar Nueva Partida
 
-Cuando Inicias una nueva partida se va a crear un directorio llamado `Ahorcado` donde habra otra carpeta llamado `Niveles/`. En `Niveles/` estan los demas niveles que serian la dificultad del juego, ya despues comienzas a jugar el hangman en el nivel que elijas. Cuando termines, volvera al menu principal.
+Cuando Inicias una nueva partida se va a crear un directorio llamado `Ahorcado` donde habra otra carpeta llamado `Niveles/`. En `Niveles/` estan los demas niveles que serian la dificultad del juego, ya después comienzas a jugar el hangman en el nivel que elijas. Cuando termines, volvera al menu principal.
 
 ### Crear ahorcado
 
 Cuando le das a `Crear ahorcado`, te preguntara por una palabra secreta y luego iniciara el juego de hangman
 
 
-### Mas detalles
+### Más detalles
 
 En este repositorio tenemos tres ficheros que son `Crear.sh`, `Inicio.sh`, `Juego.sh`.
 
