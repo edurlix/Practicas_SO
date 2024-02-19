@@ -17,7 +17,7 @@ En este script es un juego de hangman o el ahorcado que tiene un menu donde te p
 
 - [1) Iniciar Nueva Partida](#iniciar-nueva-partida)
 - [2) Crear ahorcado](#crear-ahorcado)
-- 3) Salir
+- [3) Salir](#salir)
 
 
 ### Iniciar Nueva Partida
@@ -26,7 +26,11 @@ Cuando Inicias una nueva partida se va a crear un directorio llamado `Ahorcado` 
 
 ### Crear ahorcado
 
-Cuando le das a `Crear ahorcado`, te preguntara por una palabra secreta y luego iniciara el juego de hangman
+Cuando le das a `Crear ahorcado`, te preguntara por una palabra secreta y luego iniciara el juego de hangman.
+
+### Salir
+
+Esta opcion es para salir del programa.
 
 
 ### Mas detalles
