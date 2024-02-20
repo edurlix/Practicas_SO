@@ -4,13 +4,12 @@
 
 Para ejecutar:
 
-`Bash Juego.sh`
+`bash Juego.sh`
 
 ## Indice
 - [Iniciar Nueva Partida](#iniciar-nueva-partida)
 - [Crear ahorcado](#crear-ahorcado)
 - [Mas detalles](#mas-detalles)
-
 
 
 En este script es un juego de hangman o el ahorcado que tiene un menu donde te permite tomar diferentes las siguientes opciones:
