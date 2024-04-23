@@ -4,3 +4,4 @@ Grupo formado por:
 
 - Alessa Comparini
 - Eddyson Ureña
+- Jaime Quezada
